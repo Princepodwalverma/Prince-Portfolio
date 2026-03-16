@@ -45,6 +45,9 @@ https://prince-portfolio-lake.vercel.app/
 ```
 PORTFOLIO
  ├── index.html
+ ├── README.md
+ ├── images
+    ├──portfolio.png
 
 ```
 
