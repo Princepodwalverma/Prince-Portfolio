@@ -65,7 +65,7 @@ This portfolio is deployed using modern cloud platforms.
 
 ## 📸 Portfolio Preview
 
-*Add screenshots of your portfolio here*
+
 ![Portfolio Screenshot](images/portfolio.png)
 ```
 
