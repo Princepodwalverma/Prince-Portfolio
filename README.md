@@ -30,6 +30,7 @@ I'm continuously learning and building real-world cloud-native solutions using m
 - 📱 Responsive Design
 - 🌙 Modern UI & Smooth Animations
 - 📬 Contact Section
+-  CI/CD for Automatic Deployment
 
 ---
 
@@ -101,12 +102,6 @@ PORTFOLIO
 
 > ![Portfolio Screenshot](images/portfolio.png)
 
-```
-assets/images/home.png
-assets/images/projects.png
-assets/images/contact.png
-```
-
 ---
 
 # ⚙️ Getting Started
@@ -151,7 +146,6 @@ https://prince-portfolio-lake.vercel.app/
 - Visitor Analytics
 - Interactive Terminal
 - More DevOps Projects
-- CI/CD for Automatic Deployment
 
 ---
 
