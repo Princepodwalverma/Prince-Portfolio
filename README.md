@@ -65,17 +65,13 @@ I'm continuously learning and building real-world cloud-native solutions using m
 # 📂 Project Structure
 
 ```
-Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-│── assets/
-│   ├── images/
-│   ├── icons/
-│   └── resume/
-```
+PORTFOLIO
+ ├── index.html
+ ├── README.md
+ ├── images
+    ├──portfolio.png
 
+```
 ---
 
 # 🌟 Highlights
